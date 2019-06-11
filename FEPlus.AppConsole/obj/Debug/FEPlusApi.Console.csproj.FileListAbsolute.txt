@@ -1,0 +1,16 @@
+C:\Users\dungl\source\repos\ConsoleApp\FEPlusApi\obj\Debug\FEPlusApi.Console.csproj.CoreCompileInputs.cache
+C:\Users\dungl\source\repos\ConsoleApp\Release\FEPlusApi.Console.exe.config
+C:\Users\dungl\source\repos\ConsoleApp\Release\FEPlusApi.Console.exe
+C:\Users\dungl\source\repos\ConsoleApp\Release\FEPlusApi.Console.pdb
+C:\Users\dungl\source\repos\ConsoleApp\FEPlusApi\obj\Debug\FEPlusApi.Console.csprojAssemblyReference.cache
+C:\Users\dungl\source\repos\ConsoleApp\FEPlusApi\obj\Debug\FEPlusApi.Console.csproj.CopyComplete
+C:\Users\dungl\source\repos\ConsoleApp\FEPlusApi\obj\Debug\FEPlusApi.Console.exe
+C:\Users\dungl\source\repos\ConsoleApp\FEPlusApi\obj\Debug\FEPlusApi.Console.pdb
+D:\EMCS_System\FEPlusHost\Release\FEPlusApi.Console.exe.config
+D:\EMCS_System\FEPlusHost\Release\FEPlusApi.Console.exe
+D:\EMCS_System\FEPlusHost\Release\FEPlusApi.Console.pdb
+D:\EMCS_System\FEPlusHost\FEPlusApi\obj\Debug\FEPlusApi.Console.csprojAssemblyReference.cache
+D:\EMCS_System\FEPlusHost\FEPlusApi\obj\Debug\FEPlusApi.Console.csproj.CoreCompileInputs.cache
+D:\EMCS_System\FEPlusHost\FEPlusApi\obj\Debug\FEPlusApi.Console.csproj.CopyComplete
+D:\EMCS_System\FEPlusHost\FEPlusApi\obj\Debug\FEPlusApi.Console.exe
+D:\EMCS_System\FEPlusHost\FEPlusApi\obj\Debug\FEPlusApi.Console.pdb

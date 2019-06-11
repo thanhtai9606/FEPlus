@@ -1,0 +1,62 @@
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\FEPlus.Contract.dll
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\FEPlus.Core.dll
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\FEPlus.Models.dll
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\FEPlus.Pattern.dll
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\FEPlus.Service.Pattern.dll
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\FEPlus.Utility.dll
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\log4net.dll
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\NBear.Data.dll
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\LinqKit.EntityFramework.dll
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\ServiceLocation.dll
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\Newtonsoft.Json.dll
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\NBear.Common.dll
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\FEPlus.Core.pdb
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\FEPlus.Models.pdb
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\FEPlus.Pattern.pdb
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\FEPlus.Utility.pdb
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\LinqKit.EntityFramework.xml
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\FEPlus.Services.dll
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\FEPlus.Contract.pdb
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\FEPlus.Service.Pattern.pdb
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\FEPlus.Services.pdb
+D:\Visual 2019\Project\FE\FEPlus.Services\bin\Debug\EntityFramework.dll
+D:\Visual 2019\Project\Relase\FEPlus.Services.dll
+D:\Visual 2019\Project\Relase\FEPlus.Services.pdb
+D:\Visual 2019\Project\Release\FEPlus.Services.dll
+D:\Visual 2019\Project\Release\FEPlus.Services.pdb
+D:\Visual 2019\Project\FE\Release\FEPlus.Services.dll
+D:\Visual 2019\Project\FE\Release\FEPlus.Services.pdb
+D:\Visual 2019\Project\FE\FEPlus.Services\obj\Debug\FEPlus.Services.csprojAssemblyReference.cache
+D:\Visual 2019\Project\FE\FEPlus.Services\obj\Debug\FEPlus.Services.csproj.CoreCompileInputs.cache
+D:\Visual 2019\Project\FE\FEPlus.Services\obj\Debug\FEPlus.Services.csproj.CopyComplete
+D:\Visual 2019\Project\FE\FEPlus.Services\obj\Debug\FEPlus.Services.dll
+D:\Visual 2019\Project\FE\FEPlus.Services\obj\Debug\FEPlus.Services.pdb
+C:\Users\dungl\source\repos\ConsoleApp\FEPlus.Services\obj\Debug\FEPlus.Services.csproj.CoreCompileInputs.cache
+C:\Users\dungl\source\repos\ConsoleApp\Release\FEPlus.Services.dll
+C:\Users\dungl\source\repos\ConsoleApp\Release\FEPlus.Services.pdb
+C:\Users\dungl\source\repos\ConsoleApp\FEPlus.Services\obj\Debug\FEPlus.Services.csprojAssemblyReference.cache
+C:\Users\dungl\source\repos\ConsoleApp\FEPlus.Services\obj\Debug\FEPlus.Services.csproj.CopyComplete
+C:\Users\dungl\source\repos\ConsoleApp\FEPlus.Services\obj\Debug\FEPlus.Services.dll
+C:\Users\dungl\source\repos\ConsoleApp\FEPlus.Services\obj\Debug\FEPlus.Services.pdb
+D:\EMCS_System\FEPlusHost\Release\FEPlus.Services.dll
+D:\EMCS_System\FEPlusHost\Release\FEPlus.Services.pdb
+D:\EMCS_System\FEPlusHost\FEPlus.Services\obj\Debug\FEPlus.Services.csprojAssemblyReference.cache
+D:\EMCS_System\FEPlusHost\FEPlus.Services\obj\Debug\FEPlus.Services.csproj.CoreCompileInputs.cache
+D:\EMCS_System\FEPlusHost\FEPlus.Services\obj\Debug\FEPlus.Services.csproj.CopyComplete
+D:\EMCS_System\FEPlusHost\FEPlus.Services\obj\Debug\FEPlus.Services.dll
+D:\EMCS_System\FEPlusHost\FEPlus.Services\obj\Debug\FEPlus.Services.pdb
+D:\EMCS_System\Apu\Release\FEPlus.Services.dll
+D:\EMCS_System\Apu\Release\FEPlus.Services.pdb
+D:\EMCS_System\Apu\FEPlus.Services\obj\Debug\FEPlus.Services.csprojAssemblyReference.cache
+D:\EMCS_System\Apu\FEPlus.Services\obj\Debug\FEPlus.Services.csproj.CoreCompileInputs.cache
+D:\EMCS_System\Apu\FEPlus.Services\obj\Debug\FEPlus.Services.csproj.CopyComplete
+D:\EMCS_System\Apu\FEPlus.Services\obj\Debug\FEPlus.Services.dll
+D:\EMCS_System\Apu\FEPlus.Services\obj\Debug\FEPlus.Services.pdb
+D:\EMCS_System\Apu\FEPlus.Api\Release\FEPlus.Services.dll
+D:\EMCS_System\Apu\FEPlus.Api\Release\FEPlus.Services.pdb
+D:\EMCS_System\Apu\FEPlus.Api\FEPlus.Services\obj\Debug\FEPlus.Services.csprojAssemblyReference.cache
+D:\EMCS_System\Apu\FEPlus.Api\FEPlus.Services\obj\Debug\FEPlus.Services.csproj.CoreCompileInputs.cache
+D:\EMCS_System\Apu\FEPlus.Api\FEPlus.Services\obj\Debug\FEPlus.Services.csproj.CopyComplete
+D:\EMCS_System\Apu\FEPlus.Api\FEPlus.Services\obj\Debug\FEPlus.Services.dll
+D:\EMCS_System\Apu\FEPlus.Api\FEPlus.Services\obj\Debug\FEPlus.Services.pdb

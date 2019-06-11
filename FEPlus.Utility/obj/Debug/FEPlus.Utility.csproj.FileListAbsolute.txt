@@ -1,0 +1,43 @@
+D:\Visual 2019\Project\FE\FEPlus.Utility\bin\Debug\FEPlus.Utility.dll
+D:\Visual 2019\Project\FE\FEPlus.Utility\bin\Debug\Newtonsoft.Json.dll
+D:\Visual 2019\Project\FE\FEPlus.Utility\bin\Debug\FEPlus.Utility.pdb
+D:\Visual 2019\Project\FE\FEPlus.Utility\bin\Debug\MongoDB.Bson.dll
+D:\Visual 2019\Project\FE\FEPlus.Utility\bin\Debug\MongoDB.Driver.dll
+D:\Visual 2019\Project\Relase\FEPlus.Utility.dll
+D:\Visual 2019\Project\Relase\FEPlus.Utility.pdb
+D:\Visual 2019\Project\Release\FEPlus.Utility.dll
+D:\Visual 2019\Project\Release\FEPlus.Utility.pdb
+D:\Visual 2019\Project\FE\Release\FEPlus.Utility.dll
+D:\Visual 2019\Project\FE\Release\FEPlus.Utility.pdb
+D:\Visual 2019\Project\FE\FEPlus.Utility\obj\Debug\FEPlus.Utility.csproj.CoreCompileInputs.cache
+D:\Visual 2019\Project\FE\FEPlus.Utility\obj\Debug\FEPlus.Utility.csproj.CopyComplete
+D:\Visual 2019\Project\FE\FEPlus.Utility\obj\Debug\FEPlus.Utility.dll
+D:\Visual 2019\Project\FE\FEPlus.Utility\obj\Debug\FEPlus.Utility.pdb
+C:\Users\dungl\source\repos\ConsoleApp\Release\FEPlus.Utility.dll
+C:\Users\dungl\source\repos\ConsoleApp\FEPlus.Utility\obj\Debug\FEPlus.Utility.csproj.CoreCompileInputs.cache
+C:\Users\dungl\source\repos\ConsoleApp\FEPlus.Utility\obj\Debug\FEPlus.Utility.csproj.CopyComplete
+C:\Users\dungl\source\repos\ConsoleApp\Release\FEPlus.Utility.pdb
+C:\Users\dungl\source\repos\ConsoleApp\FEPlus.Utility\obj\Debug\FEPlus.Utility.csprojAssemblyReference.cache
+C:\Users\dungl\source\repos\ConsoleApp\FEPlus.Utility\obj\Debug\FEPlus.Utility.dll
+C:\Users\dungl\source\repos\ConsoleApp\FEPlus.Utility\obj\Debug\FEPlus.Utility.pdb
+D:\EMCS_System\FEPlusHost\Release\FEPlus.Utility.dll
+D:\EMCS_System\FEPlusHost\Release\FEPlus.Utility.pdb
+D:\EMCS_System\FEPlusHost\FEPlus.Utility\obj\Debug\FEPlus.Utility.csproj.CoreCompileInputs.cache
+D:\EMCS_System\FEPlusHost\FEPlus.Utility\obj\Debug\FEPlus.Utility.csproj.CopyComplete
+D:\EMCS_System\FEPlusHost\FEPlus.Utility\obj\Debug\FEPlus.Utility.dll
+D:\EMCS_System\FEPlusHost\FEPlus.Utility\obj\Debug\FEPlus.Utility.pdb
+D:\EMCS_System\FEPlusHost\FEPlus.Utility\obj\Debug\FEPlus.Utility.csprojAssemblyReference.cache
+D:\EMCS_System\Apu\Release\FEPlus.Utility.dll
+D:\EMCS_System\Apu\Release\FEPlus.Utility.pdb
+D:\EMCS_System\Apu\FEPlus.Utility\obj\Debug\FEPlus.Utility.csprojAssemblyReference.cache
+D:\EMCS_System\Apu\FEPlus.Utility\obj\Debug\FEPlus.Utility.csproj.CoreCompileInputs.cache
+D:\EMCS_System\Apu\FEPlus.Utility\obj\Debug\FEPlus.Utility.csproj.CopyComplete
+D:\EMCS_System\Apu\FEPlus.Utility\obj\Debug\FEPlus.Utility.dll
+D:\EMCS_System\Apu\FEPlus.Utility\obj\Debug\FEPlus.Utility.pdb
+D:\EMCS_System\Apu\FEPlus.Api\Release\FEPlus.Utility.dll
+D:\EMCS_System\Apu\FEPlus.Api\Release\FEPlus.Utility.pdb
+D:\EMCS_System\Apu\FEPlus.Api\FEPlus.Utility\obj\Debug\FEPlus.Utility.csproj.CoreCompileInputs.cache
+D:\EMCS_System\Apu\FEPlus.Api\FEPlus.Utility\obj\Debug\FEPlus.Utility.csproj.CopyComplete
+D:\EMCS_System\Apu\FEPlus.Api\FEPlus.Utility\obj\Debug\FEPlus.Utility.dll
+D:\EMCS_System\Apu\FEPlus.Api\FEPlus.Utility\obj\Debug\FEPlus.Utility.pdb
+D:\EMCS_System\Apu\FEPlus.Api\FEPlus.Utility\obj\Debug\FEPlus.Utility.csprojAssemblyReference.cache

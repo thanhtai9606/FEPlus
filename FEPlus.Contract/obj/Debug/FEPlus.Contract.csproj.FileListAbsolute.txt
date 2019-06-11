@@ -1,0 +1,57 @@
+D:\Visual 2019\Project\xx\FEPlus.Contract\obj\Debug\FEPlus.Contract.csprojAssemblyReference.cache
+D:\Visual 2019\Project\xx\FEPlus.Contract\obj\Debug\FEPlus.Contract.csproj.CoreCompileInputs.cache
+D:\Visual 2019\Project\xx\FEPlus.Contract\obj\Debug\FEPlus.Contract.pdb
+D:\Visual 2019\Project\FE\FEPlus.Contract\bin\Debug\FEPlus.Contract.dll
+D:\Visual 2019\Project\FE\FEPlus.Contract\bin\Debug\FEPlus.Contract.pdb
+D:\Visual 2019\Project\FE\FEPlus.Contract\bin\Debug\FEPlus.Models.dll
+D:\Visual 2019\Project\FE\FEPlus.Contract\bin\Debug\FEPlus.Pattern.dll
+D:\Visual 2019\Project\FE\FEPlus.Contract\bin\Debug\FEPlus.Service.Pattern.dll
+D:\Visual 2019\Project\FE\FEPlus.Contract\bin\Debug\FEPlus.Utility.dll
+D:\Visual 2019\Project\FE\FEPlus.Contract\bin\Debug\EntityFramework.dll
+D:\Visual 2019\Project\FE\FEPlus.Contract\bin\Debug\LinqKit.EntityFramework.dll
+D:\Visual 2019\Project\FE\FEPlus.Contract\bin\Debug\ServiceLocation.dll
+D:\Visual 2019\Project\FE\FEPlus.Contract\bin\Debug\Newtonsoft.Json.dll
+D:\Visual 2019\Project\FE\FEPlus.Contract\bin\Debug\FEPlus.Models.pdb
+D:\Visual 2019\Project\FE\FEPlus.Contract\bin\Debug\FEPlus.Pattern.pdb
+D:\Visual 2019\Project\FE\FEPlus.Contract\bin\Debug\FEPlus.Service.Pattern.pdb
+D:\Visual 2019\Project\FE\FEPlus.Contract\bin\Debug\FEPlus.Utility.pdb
+D:\Visual 2019\Project\FE\FEPlus.Contract\bin\Debug\LinqKit.EntityFramework.xml
+D:\Visual 2019\Project\Relase\FEPlus.Contract.dll
+D:\Visual 2019\Project\Relase\FEPlus.Contract.pdb
+D:\Visual 2019\Project\Release\FEPlus.Contract.dll
+D:\Visual 2019\Project\Release\FEPlus.Contract.pdb
+D:\Visual 2019\Project\FE\Release\FEPlus.Contract.dll
+D:\Visual 2019\Project\FE\Release\FEPlus.Contract.pdb
+D:\Visual 2019\Project\FE\FEPlus.Contract\obj\Debug\FEPlus.Contract.csprojAssemblyReference.cache
+D:\Visual 2019\Project\FE\FEPlus.Contract\obj\Debug\FEPlus.Contract.csproj.CoreCompileInputs.cache
+D:\Visual 2019\Project\FE\FEPlus.Contract\obj\Debug\FEPlus.Contract.csproj.CopyComplete
+D:\Visual 2019\Project\FE\FEPlus.Contract\obj\Debug\FEPlus.Contract.dll
+D:\Visual 2019\Project\FE\FEPlus.Contract\obj\Debug\FEPlus.Contract.pdb
+C:\Users\dungl\source\repos\ConsoleApp\FEPlus.Contract\obj\Debug\FEPlus.Contract.csproj.CoreCompileInputs.cache
+C:\Users\dungl\source\repos\ConsoleApp\Release\FEPlus.Contract.dll
+C:\Users\dungl\source\repos\ConsoleApp\Release\FEPlus.Contract.pdb
+C:\Users\dungl\source\repos\ConsoleApp\FEPlus.Contract\obj\Debug\FEPlus.Contract.csprojAssemblyReference.cache
+C:\Users\dungl\source\repos\ConsoleApp\FEPlus.Contract\obj\Debug\FEPlus.Contract.csproj.CopyComplete
+C:\Users\dungl\source\repos\ConsoleApp\FEPlus.Contract\obj\Debug\FEPlus.Contract.dll
+C:\Users\dungl\source\repos\ConsoleApp\FEPlus.Contract\obj\Debug\FEPlus.Contract.pdb
+D:\EMCS_System\FEPlusHost\Release\FEPlus.Contract.dll
+D:\EMCS_System\FEPlusHost\Release\FEPlus.Contract.pdb
+D:\EMCS_System\FEPlusHost\FEPlus.Contract\obj\Debug\FEPlus.Contract.csprojAssemblyReference.cache
+D:\EMCS_System\FEPlusHost\FEPlus.Contract\obj\Debug\FEPlus.Contract.csproj.CoreCompileInputs.cache
+D:\EMCS_System\FEPlusHost\FEPlus.Contract\obj\Debug\FEPlus.Contract.csproj.CopyComplete
+D:\EMCS_System\FEPlusHost\FEPlus.Contract\obj\Debug\FEPlus.Contract.dll
+D:\EMCS_System\FEPlusHost\FEPlus.Contract\obj\Debug\FEPlus.Contract.pdb
+D:\EMCS_System\Apu\Release\FEPlus.Contract.dll
+D:\EMCS_System\Apu\Release\FEPlus.Contract.pdb
+D:\EMCS_System\Apu\FEPlus.Contract\obj\Debug\FEPlus.Contract.csprojAssemblyReference.cache
+D:\EMCS_System\Apu\FEPlus.Contract\obj\Debug\FEPlus.Contract.csproj.CoreCompileInputs.cache
+D:\EMCS_System\Apu\FEPlus.Contract\obj\Debug\FEPlus.Contract.csproj.CopyComplete
+D:\EMCS_System\Apu\FEPlus.Contract\obj\Debug\FEPlus.Contract.dll
+D:\EMCS_System\Apu\FEPlus.Contract\obj\Debug\FEPlus.Contract.pdb
+D:\EMCS_System\Apu\FEPlus.Api\Release\FEPlus.Contract.dll
+D:\EMCS_System\Apu\FEPlus.Api\Release\FEPlus.Contract.pdb
+D:\EMCS_System\Apu\FEPlus.Api\FEPlus.Contract\obj\Debug\FEPlus.Contract.csprojAssemblyReference.cache
+D:\EMCS_System\Apu\FEPlus.Api\FEPlus.Contract\obj\Debug\FEPlus.Contract.csproj.CoreCompileInputs.cache
+D:\EMCS_System\Apu\FEPlus.Api\FEPlus.Contract\obj\Debug\FEPlus.Contract.csproj.CopyComplete
+D:\EMCS_System\Apu\FEPlus.Api\FEPlus.Contract\obj\Debug\FEPlus.Contract.dll
+D:\EMCS_System\Apu\FEPlus.Api\FEPlus.Contract\obj\Debug\FEPlus.Contract.pdb

@@ -1,0 +1,10 @@
+C:\Users\dungl\source\repos\ConsoleApp\FEPlusApi\bin\Debug\FEPlusApi.exe.config
+C:\Users\dungl\source\repos\ConsoleApp\FEPlusApi\bin\Debug\FEPlusApi.exe
+C:\Users\dungl\source\repos\ConsoleApp\FEPlusApi\bin\Debug\FEPlusApi.pdb
+C:\Users\dungl\source\repos\ConsoleApp\FEPlusApi\obj\Debug\FEPlusApi.csproj.CoreCompileInputs.cache
+C:\Users\dungl\source\repos\ConsoleApp\FEPlusApi\obj\Debug\FEPlusApi.exe
+C:\Users\dungl\source\repos\ConsoleApp\FEPlusApi\obj\Debug\FEPlusApi.pdb
+C:\Users\dungl\source\repos\ConsoleApp\Release\FEPlusApi.exe.config
+C:\Users\dungl\source\repos\ConsoleApp\Release\FEPlusApi.exe
+C:\Users\dungl\source\repos\ConsoleApp\Release\FEPlusApi.pdb
+C:\Users\dungl\source\repos\ConsoleApp\FEPlusApi\obj\Debug\FEPlusApi.csproj.CopyComplete
